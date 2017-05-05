@@ -1,6 +1,0 @@
-<!-- Website -->
-<head>
-	<link href="C:\Users\WILLIAG\Documents\Notepad Coding Stuff\style.css" rel="stylesheet" type="text/css" />
-</head>
-
-<body id="Test" class="underline bold padding">Wassaaaa dude </div>
